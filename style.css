@@ -1,0 +1,53 @@
+html {
+    background-color: darksalmon;
+    padding: 10px;
+}
+
+body {
+    background-color: aquamarine;
+    padding: 10px;
+    margin: 0;
+}
+/* flexbox start */
+.wrapper {
+    background-color: blueviolet;
+    margin: 10px;
+    padding: 30px;
+    height: 500px;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+}
+.div1{
+    background-color: cadetblue;
+    margin: 5px;
+}
+.div2 {
+    background-color: rgb(4, 84, 231);
+    margin: 5px;
+    width: 150px;
+    font-size: 30px;
+}
+.div3 {
+    background-color: darkkhaki;
+    margin: 5px;
+    height: 150px;
+}
+.div4 {
+    background-color: darkmagenta;
+    margin: 5px;
+    width: 150px;
+    height: 150px;
+}
+.div5 {
+    background-color: chartreuse;
+    margin: 5px;
+    width: 200px;
+}
+.div6 {
+    background-color: bisque;
+    margin: 5px;
+    width: 200px;
+
+}
