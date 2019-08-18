@@ -1,10 +1,10 @@
 html {
-    background-color: darksalmon;
+    background-color: lightgreen;
     padding: 10px;
 }
 
 body {
-    background-color: aquamarine;
+    background-color: wheat;
     padding: 10px;
     margin: 0;
 }
@@ -15,38 +15,38 @@ body {
     padding: 30px;
     height: 500px;
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: column wrap;
     align-items: center;
     justify-content: center;
 }
 .div1{
-    background-color: cadetblue;
+    background-color: darksalmon;
     margin: 5px;
 }
 .div2 {
-    background-color: rgb(4, 84, 231);
+    background-color: darksalmon;
     margin: 5px;
     width: 150px;
     font-size: 30px;
 }
 .div3 {
-    background-color: darkkhaki;
+    background-color: darksalmon;
     margin: 5px;
     height: 150px;
 }
 .div4 {
-    background-color: darkmagenta;
+    background-color: darksalmon;
     margin: 5px;
     width: 150px;
     height: 150px;
 }
 .div5 {
-    background-color: chartreuse;
+    background-color: darksalmon;
     margin: 5px;
     width: 200px;
 }
 .div6 {
-    background-color: bisque;
+    background-color: darksalmon;
     margin: 5px;
     width: 200px;
 
